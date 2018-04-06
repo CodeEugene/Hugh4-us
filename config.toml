@@ -12,18 +12,16 @@ Paginate = 4
   email = "vote4hugh@gmail.com"
 
 [[menu.main]]
-    name = "Docs"
-    weight = -100
-    url = "/docs/"
-[[menu.main]]
     name = "Blog"
     weight = -100
     url = "/blog/"
+
 [[menu.main]]
     name = "Faq"
     weight = -100
     url = "/faq/"
-    [[menu.main]]
-        name = "About Hugh"
-        weight = -100
-        url = "/about/"
+
+[[menu.main]]
+    name = "About Hugh"
+    weight = -100
+    url = "/about/"

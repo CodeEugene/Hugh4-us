@@ -1,0 +1,21 @@
+ul > li {
+  text-align: left;
+  padding-bottom: 5px;
+}
+
+#kube-features {
+  margin-top: 0px;
+}
+
+#kube-features  h2 {
+  margin-bottom: 1.2em;
+  margin-top: 1.2em;
+}
+
+#hero {
+  padding: 0px;
+}
+
+.related {
+  padding-top: 10px;
+}

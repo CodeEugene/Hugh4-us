@@ -1,0 +1,29 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Hugh Paterson III for Eugene City Council"
+theme = "kube"
+description = "Hugh Paterson III is passionate about a better Eugene for today and tomorrow. We want to see a more supportive Eugene City Government. Hugh Paterson III is our choice."
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "Eugene Neighbors" # add your company name
+  github = "" # add your github profile name
+  twitter = "" # add your twitter profile
+  email = "vote4hugh@gmail.com"
+
+[[menu.main]]
+    name = "Docs"
+    weight = -100
+    url = "/docs/"
+[[menu.main]]
+    name = "Blog"
+    weight = -100
+    url = "/blog/"
+[[menu.main]]
+    name = "Faq"
+    weight = -100
+    url = "/faq/"
+    [[menu.main]]
+        name = "About Hugh"
+        weight = -100
+        url = "/about/"

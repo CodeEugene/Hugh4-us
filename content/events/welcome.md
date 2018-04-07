@@ -3,7 +3,7 @@ date = "2017-03-02T21:56:55+01:00"
 title = "Welcome"
 tags = ["markdown","example"]
 categories = ["general"]
-draft = false
+draft = true
 description = "Upcoming events"
 weight = 10
 +++

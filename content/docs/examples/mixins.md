@@ -3,7 +3,7 @@ weight = 230
 description = "Mixins save countless hours and bring results faster"
 date = "2017-04-10T16:43:36+01:00"
 title = "Mixins"
-draft = false
+draft = true
 bref="Mixins are a great way to produce things and effects way faster with Sass then with pure CSS. Kube has a lot to offer in this respect; feel free to use any of these mixins with any Kube components."
 toc = true
 +++

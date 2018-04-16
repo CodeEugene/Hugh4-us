@@ -2,7 +2,7 @@
 title = "Custom Plugins"
 description = "Flexible and extensible way to add custom features"
 weight = 20
-draft = false
+draft = true
 toc = true
 bref = "Kube has a lot to offer in terms of extensibility and flexibility, and plugins are the way of doing incredible things without bloating the core. With plugins, you can extend existing features, make them more interactive, or you can crate completely new functionality."
 +++

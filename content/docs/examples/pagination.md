@@ -1,6 +1,6 @@
 +++
 date = "2017-04-10T16:42:03+01:00"
-draft = false
+draft = true
 weight = 130
 description = "Various flexible pagination options for your site"
 title = "Pagination"

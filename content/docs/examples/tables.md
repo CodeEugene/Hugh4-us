@@ -1,7 +1,7 @@
 +++
 date = "2017-04-10T16:40:43+01:00"
 title = "Tables"
-draft = false
+draft = true
 weight = 50
 description = "Rows and columns for all sorts of tables"
 toc = true

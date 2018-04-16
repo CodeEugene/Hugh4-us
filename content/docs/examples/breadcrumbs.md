@@ -3,7 +3,7 @@ date = "2017-04-10T16:41:54+01:00"
 weight = 110
 description = "Traces for the users so they won't get lost"
 title = "Breadcrumbs"
-draft = false
+draft = true
 bref= "Breadcrumbs in Kube are formed as lists with default separator. This separator can be customized with ease by simply changing a single CSS line"
 toc = true
 +++

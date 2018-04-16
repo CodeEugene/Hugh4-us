@@ -1,7 +1,7 @@
 +++
 date = "2017-04-10T16:42:26+01:00"
 title = "Sticky"
-draft = false
+draft = true
 weight = 160
 description = "Make navigation menus stick to the top on scroll"
 bref="Sticky navigation makes it easy to affix menus to the top of the page whenever a user scrolls the page down. This could be very helpful and useful on long pages. Sticky is disabled on mobile devices to avoid unwanted content overlaps and to preserve valuable screen real estate"

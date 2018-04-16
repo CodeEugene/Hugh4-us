@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 weight = 30
 description = "Flexible, fully responsive and ready to use"
 title = "Grid"

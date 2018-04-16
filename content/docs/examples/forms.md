@@ -1,7 +1,7 @@
 +++
 date = "2017-04-10T16:40:50+01:00"
 title = "Forms"
-draft = false
+draft = true
 weight = 60
 description = "Rows and columns for all sorts of tables"
 bref = 'Forms come in all forms and shapes in Kube, and you can do all sorts of things with them, especially when combining with <a href="/docs/custom-plugins/">custom plugins</a> for extra interactivity. These forms are ideal building material for your awesome projects!'
@@ -694,7 +694,7 @@ toc = true
       </div>
     </div>
     <div class="form-item">
-      <label>Message</label> 
+      <label>Message</label>
       <textarea rows="6"></textarea>
     </div>
   </form>
@@ -770,7 +770,7 @@ toc = true
   <form action="" class="form" method="post">
     <input name="authorize-token" type="hidden" value="c6851d805bd96d2c91d52574c65d3ae26ce4b6bca43f560518a0bea61335f9d52acc6055807bf8616ff3d13d3882d5aa2f4b15a046562c1e6a9d932e369e9fad">
     <div class="form-item">
-      <label>Text</label> 
+      <label>Text</label>
       <textarea rows="4"></textarea>
     </div>
   </form>
@@ -786,7 +786,7 @@ toc = true
   <form action="" class="form" method="post">
     <input name="authorize-token" type="hidden" value="c6851d805bd96d2c91d52574c65d3ae26ce4b6bca43f560518a0bea61335f9d52acc6055807bf8616ff3d13d3882d5aa2f4b15a046562c1e6a9d932e369e9fad">
     <div class="form-item">
-      <label>Text</label> 
+      <label>Text</label>
       <textarea class="w50" rows="4"></textarea>
     </div>
   </form>

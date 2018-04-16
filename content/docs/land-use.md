@@ -1,6 +1,6 @@
 +++
-title = "Quick Start"
-description = "Up and running in under a minute"
+title = "Land Use"
+description = "Increasing affordable living for all"
 weight = 10
 draft = false
 toc = true

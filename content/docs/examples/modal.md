@@ -1,6 +1,6 @@
 +++
 title = "Modal"
-draft = false
+draft = true
 weight = 150
 date = "2017-04-10T16:42:18+01:00"
 description = "Clean, functional, and extensible modal window dialogs"

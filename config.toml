@@ -14,7 +14,7 @@ Paginate = 4
 [[menu.main]]
     name = "Events"
     weight = -100
-    url = "/events/"
+    url = "/blog/"
 
 [[menu.main]]
     name = "Faq"
@@ -22,11 +22,16 @@ Paginate = 4
     url = "/faq/"
 
 [[menu.main]]
+        name = "Positions"
+        weight = -100
+        url = "/docs/"
+
+[[menu.main]]
     name = "About Hugh"
     weight = -100
     url = "/about/"
 
-    [[menu.main]]
+[[menu.main]]
         name = "Resume"
         weight = -100
         url = "/resume/"

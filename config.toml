@@ -1,5 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
+author = "Hugh Paterson III and Eugene Neighbors"
 title = "Hugh Paterson III for Eugene City Council"
 theme = "kube"
 description = "Hugh Paterson III is passionate about a better Eugene for today and tomorrow. We want to see a more supportive Eugene City Government. Hugh Paterson III is our choice."
@@ -10,6 +11,10 @@ Paginate = 4
   github = "" # add your github profile name
   twitter = "" # add your twitter profile
   email = "vote4hugh@gmail.com"
+
+  [Params.seo.webmaster_verifications]
+    google = "UA-25742240-2" # Optional, Google verification code
+    
 
 [[menu.main]]
     name = "Events"
@@ -30,8 +35,3 @@ Paginate = 4
     name = "About Hugh"
     weight = -100
     url = "/about/"
-
-[[menu.main]]
-        name = "Resume"
-        weight = -100
-        url = "/resume/"

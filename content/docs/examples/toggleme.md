@@ -1,7 +1,7 @@
 +++
 title = "Toggleme"
 date = "2017-04-10T16:42:59+01:00"
-draft = false
+draft = true
 weight = 190
 description = "Display or hide elements with simple toggle"
 bref= "Toggleme is a great way to add a binary option to either display some content or hide it. It works like a charm for menus, disclaimers and so much more!"

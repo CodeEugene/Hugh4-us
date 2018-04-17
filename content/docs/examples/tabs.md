@@ -1,7 +1,7 @@
 +++
 title = "Tabs"
 date = "2017-04-10T16:41:40+01:00"
-draft = false
+draft = true
 weight = 100
 description = "User-friendly navigation for your content or app"
 bref= "Tabs in Kube are crafted the way one would expect from the world's best CSS framework. With versatile API, wide range of settings an options, with callbacks and live examples. Take a look!"

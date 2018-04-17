@@ -4,9 +4,16 @@ description = "Leading a national transition"
 weight = 10
 draft = false
 toc = true
-bref = "As a complete and self-sufficient web framework, Kube is here to help you get the most out of your daily work. Kube takes care of routine stuff, saving you precious time for things that you love. Starting up with Kube is ridiculously fast you can start in under a minute. Here's how to set up Kube, and what basic customization are available out-of-the-box."
+bref = "We need to find community supporting solutions which actually bring us as a community towards meaning our sustainability goals."
 +++
 
+## How will you help lead your city/count/local jurisdiction toward 100% Clean Energy by 2050?
+We need to work on community development strategies (especially at the city policy level) that make passive home construction practical and affordable. We need create an economy where renewable energy solutions are the affordable solution.
+
+### What are your top two environmental priorities?
+1. Securing the solar access rights of all property owners.
+2. Bringing edible plants to Eugene public spaces.
+<!--
 <h3 class="section-head" id="h-basic-template"><a href="#h-basic-template">Basic Template</a></h3>
 
 <p>With Kube, you can set up your web framework and be on your way in under a minute. Just add this code to your web page for the basic template to take effect immediately.</p>
@@ -79,3 +86,4 @@ bref = "As a complete and self-sufficient web framework, Kube is here to help yo
 <span class="hljs-selector-id">#my-layout</span> {
     <span class="hljs-attribute">padding</span>: <span class="hljs-variable">$base-line</span>;
 }</pre>
+-->

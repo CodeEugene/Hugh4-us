@@ -15,7 +15,7 @@ SIL International, IDX Innovation
 Virtual Team
 2018 – Present
 
-Within the context of IDX Innovation's mission I:
+Within the context of IDX Innovation's mission:
 
 + Identify opportunities to create customers
 + Describe, plan, and report on innovation projects
@@ -30,7 +30,7 @@ SIL International, International Language Program Training
 Dallas, Texas and Virtual Team
 2011 – 2018
 
-Within the context of [SIL's Training](https://www.sil.org/training) mission I:
+Within the context of [SIL's Training](https://www.sil.org/training) mission:
 
 + Worked with a team to bring language documentation and linguistic content to the web in a user friendly manner with current web technologies.
 + Acted as a business consultant to organizational units in SIL International to bring their services to the web.

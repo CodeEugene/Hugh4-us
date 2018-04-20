@@ -3,8 +3,8 @@ title = "Open Data"
 description = "Access to the transactional life of our city."
 weight = 10
 draft = false
-toc = true
-bref = "Open data gives the citizens access to see the same data that our city staff view and base their decisions on."
+toc = false
+bref = "Open data gives the citizens access to see the same data that our city staff view and base their decisions on"
 +++
 
 # Open Data in context
@@ -19,4 +19,4 @@ The web is a primary means of communication for many (most) of the people living
 
 ## Possess - ability
 
-To be fully in the public space the data needs to not just be browsable but also downloadable in formats that allow citizens to make their own charts and graphs with their own software. The verification of narrative developed by the city staff (often supported with claims of fact) is more often than not in accessible by the city council or the citizens. Allowing individual access to transactional data and report based data allows citizens to compare costs with impacts. We might be able to freely look at police response times, number of times the city is repairing vehicles, citing homeless people for trespassing or sleeping on public property, or how much income is generated from assessing fees to internet providers.
+To be fully in the public space the data needs to not just be _browse-able_ but also _download-able_ in formats that allow citizens to make their own charts and graphs with their own software. The verification of narrative developed by the city staff (often supported with claims of fact) is more often than not in accessible by the city council or the citizens. Allowing individual access to transactional data and report based data allows citizens to compare costs with impacts. We might be able to freely look at police response times, number of times the city is repairing vehicles, citing homeless people for trespassing or sleeping on public property, or how much income is generated from assessing fees to internet providers.

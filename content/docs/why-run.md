@@ -1,13 +1,11 @@
 +++
-title = "Land Use"
-description = "Increasing affordable living for all"
+title = "Why Run"
+description = "Integrity and Trust"
 weight = 10
 draft = false
-toc = true
-bref = "As a complete and self-sufficient web framework, Kube is here to help you get the most out of your daily work. Kube takes care of routine stuff, saving you precious time for things that you love. Starting up with Kube is ridiculously fast you can start in under a minute. Here's how to set up Kube, and what basic customization are available out-of-the-box."
+toc = false
+bref = "Integrity and Trust"
 +++
-
-Friends,
 
 The measure for independent Auditor sets the tone for this election. The People of Eugene expect _Clarity_, _Openness_, and a _demonstration of responsibility_ from their **elected officials** and their **appointed officials**.
 

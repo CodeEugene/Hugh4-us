@@ -14,7 +14,7 @@ Paginate = 4
 
   [Params.seo.webmaster_verifications]
     google = "UA-25742240-2" # Optional, Google verification code
-    
+     bing = "4130188401B5531EBF0592AC7132B39F" # Optional, Bing verification code
 
 [[menu.main]]
     name = "Events"

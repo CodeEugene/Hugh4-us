@@ -24,7 +24,7 @@ Eugene's growing influence in the tech industry gives us a great opportunity to 
 
 ## Personal example
 
-![Paterson Solar Arrays](https://hugh4.us/data/Paterson-solar.JPG "Paterson Solar Arrays")
+![Paterson Solar Arrays](https://hugh4.us/img/Paterson-solar.JPG "Paterson Solar Arrays")
 
 Hugh has two 6.1 kWp systems (each has about 21 panels) in place on his roof. On a full day of sun in April they produce about 33-34 kWh of power. According to [Wikipedia](https://en.wikipedia.org/wiki/Gasoline_gallon_equivalent) that is about the same as a gallon of unleaded gasoline. For Mr. Paterson the longterm investment was based on the longterm planning he and his wife did related to their expected energy consumption. For the past year they consumed a little over 10,000 kWh of Electric and so were able to off set that with one power system. Their power system is not designed to be an emergency power solution. It is grid connected. Mr. Paterson uses the grid for power storage. Hugh says:
 

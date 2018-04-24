@@ -12,9 +12,16 @@ Paginate = 4
   twitter = "" # add your twitter profile
   email = "vote4hugh@gmail.com"
 
-  [Params.seo.webmaster_verifications]
-    google = "UA-25742240-2" # Optional, Google verification code
-     bing = "4130188401B5531EBF0592AC7132B39F" # Optional, Bing verification code
+[Params.seo.webmaster_verifications]
+google = "BWURvXm5S1CA97KY4338ECg-_GsLMXnwNpSotlTKdzc" # Optional, Google verification code
+    #google = "UA-25742240-2" # Optional, Google verification code
+bing = "4130188401B5531EBF0592AC7132B39F" # Optional, Bing verification code
+
+[params]
+ noindex_kinds = [
+"taxonomy",
+ "taxonomyTerm"
+  ]
 
 [[menu.main]]
     name = "Events"
@@ -35,8 +42,3 @@ Paginate = 4
     name = "About Hugh"
     weight = -100
     url = "/about/"
-
-[[menu.main]]
-      name = "Contact"
-      weight = -100
-      url = "/contact/"

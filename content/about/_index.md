@@ -18,6 +18,9 @@ Hugh has served as administrative staff for an international non-governmental or
       <li>
         <a href="#Why-Run">Why Run</a>
       </li>
+      <li>
+      <a href="#contact">Contact info</a>
+      </li>
     </ul>
   </nav>
   <div id="Work-history">
@@ -100,3 +103,8 @@ SIL International, IDX Innovation
 
 <p>The architecture of our community is reflective of our management priorities and the policies that guide that management. We can all think of the good, the bad, and the ugly architecture in Eugene. I’ll let you decide where City Hall fits.</p>
   </div>
+  <div id="contact">
+  <style type=”text/css”>p span.displaynone { display:none; }</style>
+  <p>Email: <a href="mailto:vote4hugh@gmail.com?subject=Feedback_from_website">vote4hugh@<span class="displaynone"></span>gmail.com</a></p>
+  Text Message: <a href="tel:16185679799">(618) 567.9799</a>
+</div>

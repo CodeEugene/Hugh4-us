@@ -75,6 +75,7 @@ Also see the discussion at the Eugene City Council Work Session: February 26, 20
 The CET has been discussed for some time in the city government. See Eugene city materials here: https://www.eugene-or.gov/3712/Task-Team-1
 
 #What kind of Solar PV system do you have?
+
 I have two 6.1 kWp systems (each has about 21 panels) in place on my roof. On a full day of sun in April they produce about 33-34 kWh of power. According to [Wikipedia](https://en.wikipedia.org/wiki/Gasoline_gallon_equivalent) that is about the same as a gallon of petrol. For us the longterm investment was based on our longterm planning related to energy consumption. For the past year we consumed a little over 10,000 kWh of Electric and so we were able to off set that with one power system. Our power system was not designed to be an emergency power solution and is grid connected. We use the grid for power storage. We use [EWEB's](http://www.eweb.org/residential-customers/going-green/solar-electric) net meter solution. This solution says that for each kWh of power we put on to the grid we get a credit back (for a kWh used on a later billing cycle) or we get financially compensated for the overage at the end of 12 months.  
 
 It is concerning that EWEB in some locations is considering moving to a [Smart Metering solution](http://www.eweb.org/residential-customers/smart-meters-and-smart-grid/opt-out-program). This may mean that our Daytime power is not as valuable as our nighttime power. This should be a concern for all owners of PV solar systems.

@@ -22,6 +22,14 @@ We market ourselves as the _Silicon Shire_ in contrast to the Silicon Valley. We
 
 Eugene's growing influence in the tech industry gives us a great opportunity to foster new business opportunities which can leverage our green ideals in places where that tech is used.
 
+## Leading Eugene
+
+_When it comes to reporting on progress towards reaching climate goals, should the city be reporting on its infrastructure performance, or the performance of all activities within the city limits?_
+
+It is Hugh's position that the city holds a special place in our economy. We have the power to encourage and motivate businesses and residents to implement renewable energy solutions.  The city's metrics for success should be the measure of our entire community, not the number of electric cars the city operates. See: https://www.eugene-or.gov/3188/Climate-Action-Goals
+
+It follows then that every house and business should be able to use the sun's power most productively. Property owners need to know that their rights to solar access are secure. These rights were brought in by Alan Zelanka early in his career, but then these protections were gutted in favor of generating new construction. They were gutted by limiting the protections to certain lot sizes. These solar protections need to be restored. Solar (PV and Water, and passive energy efficiency) need to be in our community sponsored solutions.
+
 ## Personal example
 
 ![Paterson Solar Arrays](https://hugh4.us/img/Paterson-solar.JPG "Paterson Solar Arrays")

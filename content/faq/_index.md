@@ -3,12 +3,6 @@ draft= false
 title = "FAQ"
 description = "Asked and answered"
 
-#_Should the city be reporting on its infrastructure performance, or the performance of all activities within the city limits?_
-#It follows then that every house and business should be able to use the sun's power most productively. Property owners need to know that their rights to solar access are secure. Therefore component of our construction should be in our community design planning and our reporting.
-#See also: https://www.eugene-or.gov/3188/Climate-Action-Goals
-
-#Eugene City government reports on its carbon usage goals.
-
 +++
 
 ## What kind of auditor solution does Eugene need?
@@ -74,8 +68,14 @@ Also see the discussion at the Eugene City Council Work Session: February 26, 20
 
 The CET has been discussed for some time in the city government. See Eugene city materials here: https://www.eugene-or.gov/3712/Task-Team-1
 
-#What kind of Solar PV system do you have?
+## What kind of Solar PV system do you have?
 
 I have two 6.1 kWp systems (each has about 21 panels) in place on my roof. On a full day of sun in April they produce about 33-34 kWh of power. According to [Wikipedia](https://en.wikipedia.org/wiki/Gasoline_gallon_equivalent) that is about the same as a gallon of petrol. For us the longterm investment was based on our longterm planning related to energy consumption. For the past year we consumed a little over 10,000 kWh of Electric and so we were able to off set that with one power system. Our power system was not designed to be an emergency power solution and is grid connected. We use the grid for power storage. We use [EWEB's](http://www.eweb.org/residential-customers/going-green/solar-electric) net meter solution. This solution says that for each kWh of power we put on to the grid we get a credit back (for a kWh used on a later billing cycle) or we get financially compensated for the overage at the end of 12 months.  
 
 It is concerning that EWEB in some locations is considering moving to a [Smart Metering solution](http://www.eweb.org/residential-customers/smart-meters-and-smart-grid/opt-out-program). This may mean that our Daytime power is not as valuable as our nighttime power. This should be a concern for all owners of PV solar systems.
+
+## How should a City Councilor keep their constituency informed?
+
+Hugh would expect to be available via face to face meetings - coffee or a beer!
+His phone number and email address are available on this website under "About Hugh".
+It is in Hugh's nature to be a blogger. This might be an appropriate method. Sometimes the citizens can be well informed based on email messages sent out from various city departments. It is also appropriate to visit (to report and hear concerns from citizens) various Ward 3 neighborhood meetings.

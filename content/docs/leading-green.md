@@ -18,7 +18,7 @@ We need to work on community development strategies (especially at the city poli
 
 ## What can we do in Eugene to _Lead Green_?
 
-We market ourselves as the _Silicon Shire_ in contrast to the Silicon Valley. We have the capability here in Eugene to take environmental protection including renewable forms of energy very seriously. I see opportunities in Eugene for solar power production, Solar panel manufacture, and solar panel recycling. City Council needs to set the policy to make the industries around these enterprises work.
+We market ourselves as the _Silicon Shire_ in contrast to the Silicon Valley. We have the capability here in Eugene to take environmental protection including renewable forms of energy seriously. I see opportunities in Eugene for solar power production, Solar panel manufacture, and solar panel recycling. City Council needs to set the policy to make the industries around these enterprises work.
 
 Eugene's growing influence in the tech industry gives us a great opportunity to foster new business opportunities which can leverage our green ideals in places where that tech is used.
 

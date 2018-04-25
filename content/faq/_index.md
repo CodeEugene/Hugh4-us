@@ -39,7 +39,7 @@ These and other issues are causing our housing costs to increase, this puts sign
 
 ## Should Eugene ban assault rifles?
 
-It does not make legal sense to create city law which conflicts with state law. This issue is best addressed at the state level. Concerned citizens of Eugene should participate in the state wide discussion.
+It does not make legal sense to create city law which conflicts with state law. It also does not make sense to pass a law like this when Eugene is so close to municipalities which would not ban assault rifles. This issue is best addressed at the state level. Concerned citizens of Eugene should participate in the state wide discussion. - Keep in mind it is _already_ illegal in Eugene to kill someone.
 
 ## Should Eugene implement a Construction Exercise Tax (CET )?
 In response to  _Jacob Fox and Terry McDonald_ who published a guest opinion in the [Register Guard on April 6th 2018](http://registerguard.com/rg/opinion/36620851-78/construction-excise-tax-could-help-build-affordable-housing.html.csp).

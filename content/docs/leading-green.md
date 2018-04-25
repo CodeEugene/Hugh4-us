@@ -38,4 +38,4 @@ Hugh has two 6.1 kWp systems (each has about 21 panels) in place on his roof. On
 
 >We use [EWEB's](http://www.eweb.org/residential-customers/going-green/solar-electric) net meter solution. This solution says that for each kWh of power we put on to the grid we get a credit back (for a kWh used on a later billing cycle) or we get financially compensated for the overage at the end of 12 months.  
 
->It is concerning that EWEB in some locations is considering moving to a [Smart Metering solution](http://www.eweb.org/residential-customers/smart-meters-and-smart-grid/opt-out-program). This may mean that our Daytime power is not as valuable as our nighttime power. This should be a concern for all owners of PV solar systems.
+>It is concerning that EWEB in some locations is considering moving to a [Smart Metering solution](http://www.eweb.org/residential-customers/smart-meters-and-smart-grid/opt-out-program). This may mean that our daytime power is not as valuable as our nighttime power. This should be a concern for all owners of PV solar systems.

@@ -29,7 +29,7 @@ bing = "4130188401B5531EBF0592AC7132B39F" # Optional, Bing verification code
     url = "/blog/"
 
 [[menu.main]]
-    name = "Faq"
+    name = "Q & A"
     weight = -100
     url = "/faq/"
 

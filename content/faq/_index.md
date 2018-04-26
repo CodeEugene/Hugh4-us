@@ -15,9 +15,11 @@ description = "Asked and answered"
 
 Solar access is important to all Eugene citizens because solar access is an important component in Environmental health.
 
-Eugene City has chosen to make Environmental health is one of the components in Eugene city's _[Triple Bottom Line](https://www.eugene-or.gov/512/Triple-Bottom-Line)_ analysis framework.
+Eugene City has chosen to make Environmental health one of the components in the city's _[Triple Bottom Line](https://www.eugene-or.gov/512/Triple-Bottom-Line)_ analysis framework.
 
-Property owners in Eugene need to be assured proper solar access. As our community seeks to lower carbon emissions, every home owner needs to be able to have the capability of doing so.
+Alan Zelenka helped establish solar rights for Eugene property owners early in his career. However he let these rights become limited for property owners of smaller lots. This favors new construction, but is it the kind of construction we want and need in our city?
+
+All property owners in Eugene need to be assured proper solar access. As our community seeks to lower carbon emissions, every home owner needs to be able to have the capability of doing so.
 
 ## Is the cost of housing in Eugene a real issue?
 

@@ -18,9 +18,19 @@ We need to work on community development strategies (especially at the city poli
 
 ## What can we do in Eugene to _Lead Green_?
 
+### Impact design
 We market ourselves as the _Silicon Shire_ in contrast to the Silicon Valley. We have the capability here in Eugene to take environmental protection including renewable forms of energy seriously. I see opportunities in Eugene for solar power production, Solar panel manufacture, and solar panel recycling. City Council needs to set the policy to make the industries around these enterprises work.
 
 Eugene's growing influence in the tech industry gives us a great opportunity to foster new business opportunities which can leverage our green ideals in places where that tech is used.
+
+### Solar Access
+Solar access is important to all Eugene citizens because solar access is an important component in Environmental health.
+
+Eugene City has chosen to make Environmental health one of the components in the city's _[Triple Bottom Line](https://www.eugene-or.gov/512/Triple-Bottom-Line)_ analysis framework.
+
+Alan Zelenka helped establish solar rights for Eugene property owners early in his career. However he let these rights become limited for property owners of smaller lots. This favors new construction, but is it the kind of construction we want and need in our city?
+
+All property owners in Eugene need to be assured proper solar access. As our community seeks to lower carbon emissions, every home owner needs to be able to have the capability of doing so.
 
 ## Leading Eugene
 

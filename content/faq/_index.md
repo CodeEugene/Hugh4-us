@@ -80,6 +80,8 @@ Hugh would expect to be available via face to face meetings - coffee or a beer!
 His phone number and email address are available on this website under "About Hugh".
 It is in Hugh's nature to be a blogger. This might be an appropriate method. Sometimes the citizens can be well informed from methods the city already utilizes to inform citizens. One method citizens can currently use to stay abreast of city issues is the email messages sent out from various city departments. It is also appropriate for city councilors visit (to report and hear concerns from citizens) various Ward 3 neighborhood meetings. However, city councilors and candidates are aware that Neighborhood associations have relatively low attendance (when compared with the whole neighborhood population) and are therefore not representative of all or even the majority opinions held by the citizens of a neighborhood.
 
+**Do you have a better idea?** I know that Eugene Public Schools and some departments in the city use tools like Facebook and Nextdoor to information to citizens.
+
 ## When do you replace the city manager?
 
 _**Context**: This question was asked at the SUNA debate, with overture to the City Hall situation, and the City Manager withholing from the City Council cost over runs related to the project._
@@ -95,7 +97,7 @@ _**Context**: This question was asked at the SUNA debate, with overture to the C
  An independent elected auditor can help  in this situation by providing performance evaluation on the projects and programs operated by city staff.
 
 
-## What is your plan for dealing with the increasing homeless population that surrounds White Bird clinic on 12th Ave?
+## What is your plan for dealing with the increasing homeless population that surrounds [White Bird clinic](http://whitebirdclinic.org/) on 12th Ave?
 
 >I live in Ferry alley. As the weather warms the transient problem increases and brings all the usual problems. The dumpsters are scattered. Urban camping is tolerated and goes unnoticed or ignored on private property. I have contacted numerous property owners. They do what they can and some are not even local unfortunately. The Eugene police department is already spread thin enough. How can my vote guarantee my family’s safety and a clean neighborhood? Will there ever be a day when I don’t have to worry about my 4 year old picking up a needle as I walk down the sidewalk?
 — Concerned Citizen

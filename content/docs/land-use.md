@@ -33,8 +33,8 @@ This is a great question: and is only matched in greatness by asking _What is af
 
 Livability to Hugh means we have the infrastructure in place to create healthy and vibrant communities.
 
-Alan Zelenka says that in his tenure as City Councilor livability has meant: _controlling noise, providing parking, and solving traffic flow issues_. These are important issues, but these three issues do not define all of _livability_. 
+Alan Zelenka says that in his tenure as City Councilor livability has meant: _controlling noise, providing parking, and solving traffic flow issues_. These are important issues, but these three issues do not define all of _livability_.
 
 We should expand our understanding of livability to include looking at issues like mixed use areas where entrepreneurial services can thrive. We should look at walkscore and the walkability of our neighborhoods. We should look at the workability of our neighborhoods. Livability means that we can live in a way that is sustainable, be that using solar power to recover utility costs, or renting an Auxiliary Dwelling Unit to offset the rising taxes on our properties.
 
-We have a growing population of retiring baby boomers who want to own their own house, but don't want a large house. How livable is our neighborhoods for them?
+We have a growing population of retiring baby-boomers who want to own their own house, but don't want a large house - or even a two bedroom home. How livable is our neighborhoods for them?

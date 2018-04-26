@@ -7,4 +7,4 @@ draft = false
 description = "Eugene Ward 3 neighborhood associations co-sponsor a debate."
 +++
 
-From 7-8:30 PM the three Ward 3 candidates answered questions from Citizens and Neighborhood associations. This debate was hosted by [SUNA](http://www.sunaeugene.org/).
+From 7-8:30 PM the three Ward 3 candidates answered questions from Citizens and Neighborhood associations. This debate was hosted by [SUNA](http://www.sunaeugene.org/2018/04/comme-meet-the-ward-3-candidates-april-24-edison-at-7pm/).

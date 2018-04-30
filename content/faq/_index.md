@@ -41,7 +41,7 @@ These and other issues are causing our housing costs to increase, this puts sign
 
 ## Should Eugene ban assault rifles?
 
-It does not make legal sense to create city law which conflicts with state law. It also does not make sense to pass a law like this when Eugene is so close to municipalities which would not ban assault rifles. This issue is best addressed at the state level. Concerned citizens of Eugene should participate in the state wide discussion. - Keep in mind, it is  _already_ illegal in Eugene to kill someone. It doesn't matter if they are killed with arsenic, wearing old lace, or with an assault rifle;_it is illegal_.
+It does not make legal sense to create city ordinance which conflicts with state law. It also does not make sense to pass a law like this when Eugene is so close to municipalities which would not ban assault rifles. This issue is best addressed at the state level. Concerned citizens of Eugene should participate in the state wide discussion. - Keep in mind, it is  _already_ illegal in Eugene to kill someone. It doesn't matter if they are killed with arsenic, wearing old lace, or with an assault rifle; _it is illegal_.
 
 ## Should Eugene implement a Construction Exercise Tax (CET )?
 **NO.** <a href=" {{"docs/No-CET" | relURL }}">See Hugh's position on this</a>.
@@ -88,7 +88,7 @@ As a parent of a 2 1/2 year-old Hugh shares the concern about injury and the spr
 
 Our kids need parental involvement to help then identify and address dangers they will encounter — throughout life.</li>
 
-<li>As far as Hugh is aware there is only one needle exchange in Lane County. This is at the [HIV Alliance](http://hivalliance.org/category/prevention/prev-hr/prev-hr-nex/). There may be other drop-off locations (and there are certainly other places to get needles), but part of the challenge we are presented with is that many of the needle using population don't care. This should be our biggest clue in trying to meet their needs. We should be asking _What has led them to a place where they don't care, and how can we restore hope?_</li>
+<li>As far as Hugh is aware there is only one needle exchange in Lane County. This is at the [HIV Alliance](http://hivalliance.org/category/prevention/prev-hr/prev-hr-nex/). There may be other drop-off locations (and there are certainly other places to get needles), but part of the challenge we are presented with is that many of the needle using population don't care (especially about sanitary disposal practices or disease containment). Some say that their apathy should be our biggest clue in trying to meet their needs. We should be asking _What has led them to a place where they don't care, and how can we restore hope?_</li>
 
 <li>Neighborhood safety and cleanliness must be a grassroots effort. A regulation based effort is expensive, resource intensive, and does not address the long term needs of Eugene's homeless population. Criminalizing homelessness through the enforcement of loitering and trespassing ordinances costs the taxpayer more, and only reinforces prejudices between segments of society. We need to check our own attitudes and biases if we feel that we can regulate and solve Eugene urban camping through city ordinances. Do our solutions primarily solve _our felt needs_ (please remove the nuisance from around my dwelling) or _their felt needs_ (where and how can I live)?
 

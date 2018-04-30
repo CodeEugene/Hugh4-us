@@ -49,3 +49,11 @@ Hugh has two 6.1 kWp systems (each has about 21 panels) in place on his roof. On
 >We use [EWEB's](http://www.eweb.org/residential-customers/going-green/solar-electric) net meter solution. This solution says that for each kWh of power we put on to the grid we get a credit back (for a kWh used on a later billing cycle) or we get financially compensated for the overage at the end of 12 months.  
 
 >It is concerning that EWEB in some locations is considering moving to a [Smart Metering solution](http://www.eweb.org/residential-customers/smart-meters-and-smart-grid/opt-out-program). This may mean that our daytime power is not as valuable as our nighttime power. This should be a concern for all owners of PV solar systems.
+
+## Solar residential
+
+EWEB says that the [average household uses 1,600 kWh a month](http://www.eweb.org/business-customers/going-green/greenpower-for-business). For that [they pay](http://www.eweb.org/residential-customers/residential-pricing)  ¢ 5.948 X 800 and ¢ 7.435 x 800 for something like  $47.58 + $59.48 = $107.06 or just over $1,200 per year. Could we lower the cost of living in Eugene by $1,200 per year? Does that make housing in Eugene more affordable? Solar Power is sensible not only because it leads to a better environment, but because over the long term it is the cheaper option. Let's work to make it the affordable option for many more people in Eugene.
+
+## Solar commercial
+
+How can we empower small businesses to operate more efficiently by removing $500 per month in electrical utility costs? What does accountability for lowering consumption look like? If we are going to meet our community goals then we need to include _empowering_ business. Right now solar makes sense for business due to federal tax credits, but we can and have a responsibility to accelerate the cost savings and conversion to renewable power generation.

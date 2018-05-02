@@ -7,6 +7,16 @@ toc = false
 bref = "We need to find community supporting solutions which actually bring us as a community towards meaning our sustainability goals"
 +++
 
+## No Paper / Plastic signs
+
+Recently Hugh went to the _The Glenwood Central Receiving Station_ he says"
+
+>I noticed all these political signs in the trash. It really challenged me to think about the environmental impacts of my campaign. I can run a facebook add just as much as printing signs and flyers. It has less of an impact to the environment.
+
+If you want a city councilor who is concerned with the environment and our social responsibility, look no further than Hugh Paterson III. You can expect to see business card size invitations to have a face to face with Hugh and to talk about your passions for a better Eugene.
+
+![Glenwood Central Receiving Station](https://hugh4.us/img/Political-Waste.JPG "Political Waste")
+
 
 ## How will you help leading Eugene toward 100% Clean Energy by 2050?
 We need to work on community development strategies (especially at the city policy level) that make passive home construction practical and affordable. This needs to be part of our affordable housing plan. We also need create an economy where renewable energy solutions are the affordable solution. Right now there is a significant financial barrier, and a slow return on investment for those who pay upfront for renewable Energy. As long as the cost of renewable energy is high it will only be affordable to the affluent.

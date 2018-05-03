@@ -9,4 +9,4 @@ description = "Visit to City hall"
 
 ## Signing the papers to get on the city Ballot
 
-![Paterson Signing](https://hugh4.us/img/Hugh-Signing.JPG "Paterson Signing")
+<img src="/img/Hugh-Signing.JPG" alt="Paterson Signing" />

@@ -27,7 +27,7 @@ To be fully in the public space the data needs to not just be _browse-able_ but 
 
 ## Example
 
-![City Administration Housing data](https://hugh4.us/img/City-data.JPG "City Administration Housing data")
+<img src="/img/City-data.JPG" alt="City Administration Housing data" />
 
 In the above image the city presents some income data and contrasts that with housing cost data. What is not directly evident is
 

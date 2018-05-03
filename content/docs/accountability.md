@@ -11,6 +11,9 @@ bref = "Creating a space where trust is free to grow"
 
 Read the ballot measure 20-283. It is professional. This is the professional solution. Eugene is mature enough to benefit from an elected auditor.
 
+<img src="/img/Elected-Auditor.jpg" alt="Elected Auditor" />
+
+
 ## We can increase Accountability by making Eugene's transactional data open
 
 By putting Eugene's transactional data in the open it gives citizens the capability of engage in areas of interest to them and have the same data that the city is looking at. It supports the narrative of city staff. It give the city council access to the larger story.

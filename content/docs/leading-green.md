@@ -7,15 +7,15 @@ toc = false
 bref = "We need to find community supporting solutions which actually bring us as a community towards meaning our sustainability goals"
 +++
 
-## No Paper / Plastic signs
+## No paper or plastic campaign signs
 
-Recently Hugh went to the _The Glenwood Central Receiving Station_ he says"
+Recently Hugh went to the _The Glenwood Central Receiving Station_. He says:
 
 >I noticed all these political signs in the trash. It really challenged me to think about the environmental impacts of my campaign. I can run a facebook add just as much as printing signs and flyers. It has less of an impact to the environment.
 
 If you want a city councilor who is concerned with the environment and our social responsibility, look no further than Hugh Paterson III. You can expect to see business card size invitations to have a face to face with Hugh and to talk about your passions for a better Eugene.
 
-![Glenwood Central Receiving Station](https://hugh4.us/img/Political-Waste.JPG "Political Waste")
+<img src="/img/Political-Waste.JPG" alt="Glenwood Central Receiving Stations" />
 
 
 ## How will you help leading Eugene toward 100% Clean Energy by 2050?
@@ -52,7 +52,7 @@ It follows then that every house and business should be able to use the sun's po
 
 ## Personal example
 
-![Paterson Solar Arrays](https://hugh4.us/img/Paterson-solar.JPG "Paterson Solar Arrays")
+<img src="/img/Paterson-solar.JPG" alt="Paterson Solar Arrays" />
 
 Hugh has two 6.1 kWp systems (each has about 21 panels) in place on his roof. On a full day of sun in April they produce about 33-34 kWh of power. According to [Wikipedia](https://en.wikipedia.org/wiki/Gasoline_gallon_equivalent) that is about the same as a gallon of unleaded gasoline. For Mr. Paterson the longterm investment was based on the longterm planning he and his wife did related to their expected energy consumption. For the past year they consumed a little over 10,000 kWh of Electric and so were able to off set that with one power system. Their power system is not designed to be an emergency power solution. It is grid connected. Mr. Paterson uses the grid for power storage. Hugh says:
 

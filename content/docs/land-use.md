@@ -1,7 +1,7 @@
 +++
 title = "Land Use"
 description = "Increasing affordable living for all"
-weight = 10
+weight = 4
 draft = false
 toc = false
 bref = "Enabling Eugene Residents to live sensibly and economically in Eugene"

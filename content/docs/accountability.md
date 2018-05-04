@@ -1,7 +1,7 @@
 +++
 title = "Accountability"
 description = "Creating a space where trust is free to grow"
-weight = 10
+weight = 2
 draft = false
 toc = false
 bref = "Creating a space where trust is free to grow"

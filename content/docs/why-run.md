@@ -1,7 +1,7 @@
 +++
 title = "Why Run"
 description = "Integrity and Trust"
-weight = 10
+weight = 1
 draft = false
 toc = false
 bref = "Integrity and Trust"

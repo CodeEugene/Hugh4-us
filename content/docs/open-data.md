@@ -1,7 +1,7 @@
 +++
 title = "Open Data"
 description = "Access to the transactional life of our city."
-weight = 10
+weight = 5
 draft = false
 toc = false
 bref = "Open data gives the citizens access to see the same data that our city staff view and base their decisions on"

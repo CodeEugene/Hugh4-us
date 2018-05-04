@@ -1,7 +1,7 @@
 +++
 title = "Leading Green"
 description = "Leading a national transition"
-weight = 10
+weight = 3
 draft = false
 toc = false
 bref = "We need to find community supporting solutions which actually bring us as a community towards meaning our sustainability goals"

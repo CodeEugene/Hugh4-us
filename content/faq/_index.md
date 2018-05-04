@@ -95,3 +95,28 @@ Our kids need parental involvement to help then identify and address dangers the
 Loneliness is a common theme that many people who are in a homeless situation (and also people who struggle with substance abuse) struggle with. We should ask ourselves: _How does our response (in our neighborhood, or via social services, or at city council) build community for everyone involved?_</li>
 
 <li>Goverment in the USA, including Eugene City government, can not prevent people from doing activities. They can only react to those activities. Do you want a city ordinance which makes it legal to _conspire to_ "scatter dumpsters", or "to make noise"? Is it worth the added tax dollars to put in place a _legal response system_ to look for people who might "conspire to make noise"? No. such a system doesn't make sense. Nor does is address the needs of all of the citizens of Eugene — including the homeless, or "urban campers".</li></ol>
+
+
+## What do you see as your role as an elected official? How do you or would you make decisions on council?
+
+City councilors make policy level decisions. We are rails that guide the city administration (the train) to its destination. We partner with and represent the community to set the direction where those rails lead.
+
+Hugh would hope to make informed decisions based on open data. Data which supports a transparent narrative presented by the city administration. Data about and freely accessible to the community.
+
+## Increasing affordability, availability and diversity of housing is a high priority of the Chamber (Eugene Chamber of Commerce). What do you see as the biggest challenges to addressing this and can you provide a few ideas on actions that you, as a City Councilor, can take to improve housing in Eugene?
+
+<a href=" {{"docs/land-use" | relURL }}">See Hugh's position on this</a>.
+
+One creative way to avoid a CET tax and to lower building costs, would be to increase the cost of utilities so that EWEB can recover it's hook up costs via the sale of electricity and water. This will lower the building costs of each new building by roughly $6 ,000.
+
+## Elaborate on your vision for downtown. What is your plan to remove the current barriers to downtown revitalization?
+
+* We have come a long way.
+* We have ongoing projects and plans to connect the downtown with the riverfront.
+* It is time to start to move fiber to other parts of our community.
+* We have some electrical grid complexities in downtown - these prevent us from utilizing solar in critical areas.
+* There are very few things to do downtown for families. The library is a notable exception.
+
+## What is something the Chamber is not doing that you think we should be?
+
+* At the chamber Hugh did not see many businesses represented in the digital infrastructure market.  Eugene needs to increase its portfolio of businesses in the digital creative and digital infrastructure sectors. The chamber and partners like RAIN and SCORE are doing great things to encourage business ideas in our community. I would encourage engaging more business students with the chamber, and

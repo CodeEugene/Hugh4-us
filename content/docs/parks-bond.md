@@ -33,7 +33,7 @@ If, as a city, we are living outside of our means then:
 
 On both parks bonds Hugh voted **No!** He believes that the city should explore other management options.
 
->Rather than paying or increasing effective tax rates (through bonds), Hugh thinks it makes more sense to donate to a 501(c )3 foundation to support our parks. This sort of donation, has a much higher public involvement rate and  has the added financial benefit for the citizens, rather than a financial drain.
+>Rather than paying or increasing effective tax rates (through bonds), Hugh thinks it makes more sense to donate to a <nobr>501(c<wbr>)3</nobr> foundation to support our parks. This sort of donation, has a much higher public involvement rate and  has the added financial benefit for the citizens, rather than a financial drain.
 
 Some of Hugh's constituency has indicated that they have had conversations with Parks staff. These conversations have included suggestions for improved financial operations at parks facilities. These suggestions were not headed, and were, according to constituents, dismissed.
 
